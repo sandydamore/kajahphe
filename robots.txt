@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quiiwo.wirecolumn.com/sitemap.xml
